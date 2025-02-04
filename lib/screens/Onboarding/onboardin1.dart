@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class Onboardin1 extends StatelessWidget {
-  const Onboardin1({Key? key});
+  const Onboardin1({super.key,});
 
   @override
   Widget build(BuildContext context) {

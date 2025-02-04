@@ -16,7 +16,7 @@ class OnboardingScreen extends StatefulWidget {
 
 class _OnboardingScreen extends State<OnboardingScreen>
     with SingleTickerProviderStateMixin {
-  PageController _pageController = PageController();
+  final PageController _pageController = PageController();
   bool lastPage = false;
   late AnimationController _animationController;
   late Animation<Offset> _slideAnimation;

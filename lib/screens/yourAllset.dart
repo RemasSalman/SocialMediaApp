@@ -11,6 +11,7 @@ class Yourallset extends StatefulWidget {
 }
 
 class _YourallsetState extends State<Yourallset> {
+  @override
   void initState() {
     super.initState();
     Future.delayed(const Duration(seconds: 2), () { // Adjust the duration to slow down the animation

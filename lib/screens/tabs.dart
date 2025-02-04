@@ -8,7 +8,7 @@ import 'package:p8/screens/contacts_screen.dart';
 import 'package:p8/screens/home.dart';
 
 class TabScreen extends StatefulWidget {
-  const TabScreen({Key? key}) : super(key: key);
+  const TabScreen({super.key});
 
   @override
   _TabScreenState createState() => _TabScreenState();

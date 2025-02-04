@@ -3,8 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:p8/screens/chat.dart';
 
 class ContactsScreen extends StatelessWidget {
-  const ContactsScreen({
-    Key? key,
+  const ContactsScreen({super.key, 
   });
 
   @override

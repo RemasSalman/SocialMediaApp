@@ -34,7 +34,7 @@ final List<Map<String, String>> dummyPosts = const [
 ];
 
 class PlacesScreen extends ConsumerStatefulWidget {
-  const PlacesScreen({Key? key}) : super(key: key);
+  const PlacesScreen({super.key});
 
   @override
   _PlacesScreenState createState() => _PlacesScreenState();

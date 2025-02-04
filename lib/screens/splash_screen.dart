@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:p8/screens/Onboarding/onboarding_Screen.dart';
 
 class SplashScreen extends StatefulWidget {
-  const SplashScreen({Key? key});
+  const SplashScreen({super.key});
 
   @override
   State<SplashScreen> createState() => _SplashScreenState();
