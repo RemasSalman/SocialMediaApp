@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SocialMediaApp
 internal social media application using Flutter and Firebase , It aims to enhance communication, increase participation, and improve collaboration within an organization.
 
